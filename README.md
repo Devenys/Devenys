@@ -3,7 +3,7 @@
 <h3 align="center">Please allow me to introduce myself.</h3>
 <br></br>
 My name is Flávio and I'm a Junior Fullstack Developer
-<p>I'm a tech enthusiast but I'm also a music and sporting devotee.</p>
+<p>I'm a tech enthusiast but I'm also a music and sports devotee.</p>
 <br></br>
  🌍  I'm based in Portugal.
  <p>🏗️ Currently continuing my learning path and developing personal projects.  </p> 
